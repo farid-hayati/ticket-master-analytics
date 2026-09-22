@@ -24,7 +24,7 @@ The following technologies are used to build this project:
 - Visualisation: Power BI
 
 ## Data Pipeline
-![pipeline-img](assets\data-pipeline.png)
+![pipeline-img](assets/data-pipeline.png)
 
 Files in the following stages:
 - Step 1: Fetch Data - [Fetch API](main.py#L23-L33)
