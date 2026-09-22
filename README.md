@@ -36,17 +36,17 @@ Files in the following stages:
 
 The datasets are designed using the principles of fact and dim data concepts. Three main tables are used: `fct_events` is the fact table, while `dim_attractions` and `dim_venues` are the dimension tables. 
 
-![model-img](assets\data-model.png)
+![model-img](assets/data-model.png)
 
 ## Data Visualisation
 
 The dashboards were designed to serve as event coverage for different event types and genres. The first page serves as an overview for the top attractions and top cities with the highest events. Date and event types filters are also available to ease user experience in filtering the data accordingly.
 
-![dashboard1-img](assets\data-viz-1.png)
+![dashboard1-img](assets/data-viz-1.png)
 
 A detailed visualisations are added in the second page. A map with bubble markers is added to give a better sense geographically to the events distribution. A treemap with the event types with hierarchy up to sub-genres is added for further filtering capabilities. The city and attraction tables provides more clarity on the event count details.
 
-![dashboard2-img](assets\data-viz-2.png)
+![dashboard2-img](assets/data-viz-2.png)
 
 ## Observations
 
@@ -54,21 +54,21 @@ As overview, most of the data gathered showing the events only in the western co
 
 For a more fair analysis, I am focusing on the USA and Europe countries going forward.
 
-![insights-img-1](assets\insights-1.png)
+![insights-img-1](assets/insights-1.png)
 
 Surprisingly, Arts & Theatre dominates the events coverage in term of the event types. With Paris coming first in term of event counts, and several more European cities in the top 10 highest events, we can safely say there is a lot demands and interests in the entertaiment categories. 
 
-![insights-img-2](assets\insights-2.png)
+![insights-img-2](assets/insights-2.png)
 
 Las Vegas and New York are the only American cities in the Top 10 list for Arts & Theatre events, which are not surprising given the nature of Las Vegas city being the house of entertainment and the Broadway theatre scenes in New York. 
 
-![insights-img-3](assets\insights-3.png)
+![insights-img-3](assets/insights-3.png)
 
 Looking at Music events, Rock dominates the scenes in USA, followed by Country. Rock events are happening all around the United States, but Country music events are mainly distributed in the central and southern regions. 
 
-![insights-img-4](assets\insights-4.png)
+![insights-img-4](assets/insights-4.png)
 
-![insights-img-5](assets\insights-5.png)
+![insights-img-5](assets/insights-5.png)
 
 ## Insights & Suggestions
 
